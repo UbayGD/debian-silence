@@ -3,7 +3,6 @@
 
 Debian version of Arch-Silence GRUB2 theme.
 
-/*<img src="./preview.png" width="400">*/
 
 ## Font
 
